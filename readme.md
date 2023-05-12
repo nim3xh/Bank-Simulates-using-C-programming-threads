@@ -1,3 +1,4 @@
+#simulates a bank with multiple tellers usin C programming threads
 for Compile: gcc -pthread cq.c -o cq
 <br>for run    : ./cq 20 1 1 1 1
 
