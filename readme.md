@@ -1,5 +1,5 @@
 for Compile: gcc -pthread cq.c -o cq
-for run    : ./cq 20 1 1 1 1
+<br>for run    : ./cq 20 1 1 1 1
 
 This is a C program that simulates a bank with multiple tellers and customers using threads. The program is intended to be run from the command line and accepts five arguments: the length of the customer queue, the periodic time for the customer to arrive, the time duration to serve withdrawal, the time duration to serve deposit, and the time duration to serve information.
 
